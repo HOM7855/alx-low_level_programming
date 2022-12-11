@@ -1,7 +1,10 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * return : 0
+ *
+ * Description: Puts printing
+ *
+ * Return : Always 0 (Success)
  */
 int main(void)
 {
